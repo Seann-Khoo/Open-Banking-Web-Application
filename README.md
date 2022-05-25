@@ -29,4 +29,4 @@
   <li>Metals-API Account and Access Key</li>
   <li>NewsAPI Account and API Key</li></ol></h5>
 
-(c) Seann Khoo
+© 2022 Seann Khoo
