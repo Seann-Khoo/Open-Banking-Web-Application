@@ -9,7 +9,7 @@
     <li>Flask Micro-Web Framework</li></ul></h5>
 
 <h5>Referenced APIs:<br>
-  <ul><li>Fidor Bank Open Banking Sanbox API</li>
+  <ul><li>Fidor Solutions Banking Sanbox API</li>
   <li>GoldAPI.io</li>
   <li>Metals-API</li>
   <li>NewsAPI</li></ul></h5>
@@ -24,7 +24,7 @@
   
   <h5>Pre-Requisites:<br>
   <ol><li>Python and Flask Micro-Web Framework</li>
-  <li>Fidor Solutions Banking Sandox API Account</li>
+  <li>Fidor Solutions Banking Sandox API Account, Client ID and Secret Key</li>
   <li>GoldAPI.io Account and Token Key</li>
   <li>Metals-API Account and Access Key</li>
   <li>NewsAPI Account and API Key</li></ol></h5>
