@@ -28,3 +28,5 @@
   <li>GoldAPI.io Account and Token Key</li>
   <li>Metals-API Account and Access Key</li>
   <li>NewsAPI Account and API Key</li></ol></h5>
+
+(c) Seann Khoo
