@@ -14,12 +14,12 @@
   <li>Metals-API</li>
   <li>NewsAPI</li></ul></h5>
   
- <h5>Design Theme:<br></h5>
- <h6>Primary Colurs:<br>
+ <h5>Design Theme:</h5>
+ <h6>Primary Colurs:
   <ul><li>Navy Blue (#09143C)</li>
   <li>Dark Gold (#BC9E38)</li>
   <li>Wheat (#F5DEB3)</li></ul></h6>
- <h6>Primary Font:<br>
+ <h6>Primary Font:
   <ul><li>Product Sans</li></ul></h6>
   
   <h5>Pre-Requisites:<br>
