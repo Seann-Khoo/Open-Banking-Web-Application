@@ -14,11 +14,12 @@
   <li>Metals-API</li>
   <li>NewsAPI</li></ul></h5>
   
- <h5>Referenced APIs:<br>
+ <h5>Design Theme:<br>
+  <h6>Primary Colours:<br>
   <ul><li>Fidor Bank Open Banking Sanbox API</li>
   <li>GoldAPI.io</li>
   <li>Metals-API</li>
-  <li>NewsAPI</li></ul></h5>
+    <li>NewsAPI</li></ul></h6></h5>
   
   <h5>Pre-requisites:<br>
   <ol><li>Installation of Python and Flask Micro-Web Framework</li>
