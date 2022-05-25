@@ -18,7 +18,6 @@
   <ul><li>Navy Blue (#09143C)</li>
   <li>Dark Gold (#BC9E38)</li>
   <li>Wheat (#F5DEB3)</li></ul></h5>
-  
   <h5>Primary Font:<br>
   <ul><li>Product Sans</li></ul></h5>
   
