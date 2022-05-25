@@ -14,13 +14,13 @@
   <li>Metals-API</li>
   <li>NewsAPI</li></ul></h5>
   
- <h5>Design Theme:</h5>
- <h6>Primary Colurs:
+<h5>Primary Colours:<br>
   <ul><li>Navy Blue (#09143C)</li>
   <li>Dark Gold (#BC9E38)</li>
-  <li>Wheat (#F5DEB3)</li></ul></h6>
- <h6>Primary Font:
-  <ul><li>Product Sans</li></ul></h6>
+  <li>Wheat (#F5DEB3)</li></ul></h5>
+  
+  <h5>Primary Font:<br>
+  <ul><li>Product Sans</li></ul></h5>
   
   <h5>Pre-Requisites:<br>
   <ol><li>Installation of Python and Flask Micro-Web Framework</li>
