@@ -14,14 +14,17 @@
   <li>Metals-API</li>
   <li>NewsAPI</li></ul></h5>
   
-<div>Primary Colours:<br>
+<h5>Primary Colours:<br>
   <ul><li>Navy Blue (#09143C)</li>
   <li>Dark Gold (#BC9E38)</li>
-  <li>Wheat (#F5DEB3)</li></ul>
-  Primary Font:<br>
-  <ul><li>Product Sans</li></ul></div>
+  <li>Wheat (#F5DEB3)</li></ul></h5>
+  
+ <h5>Primary Font:<br>
+  <ul><li>Product Sans</li></ul></h5>
   
   <h5>Pre-Requisites:<br>
-  <ol><li>Installation of Python and Flask Micro-Web Framework</li>
-  <li>fIDR</li>
-  <li>API Keys/Tokens for GoldAPI.io, Metals-API and NewsAPI</li></ol></h5>
+  <ol><li>Python and Flask Micro-Web Framework</li>
+  <li>Fidor Solutions Banking Sandox API Account</li>
+  <li>GoldAPI.io Account and Token Key</li>
+  <li>Metals-API Account and Access Key</li>
+  <li>NewsAPI Account and API Key</li></ol></h5>
