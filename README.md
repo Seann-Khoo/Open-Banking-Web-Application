@@ -10,9 +10,11 @@
   <li>Historical 5-Day Precious Metals Price Chart</li>
   <li>Latest Precious Metals News</li></ul></h5>
 
-<h5>Programming Language and Framework:<br>
-  <ul><li>Python Programming Langugae</li>
-    <li>Flask Micro-Web Framework</li></ul></h5>
+<h5>Programming Language:<br>
+  <ul><li>Python Programming Language</li></ul></h5>
+  
+ <h5>Referenced Framework:<br>
+  <ul><li>Flask Micro-Web Framework</li></ul></h5>
 
 <h5>Referenced APIs:<br>
   <ul><li>Fidor Solutions Banking Sanbox API</li>
