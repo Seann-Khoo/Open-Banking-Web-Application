@@ -28,5 +28,30 @@
   <li>GoldAPI.io Account and Token Key</li>
   <li>Metals-API Account and Access Key</li>
   <li>NewsAPI Account and API Key</li></ol></h5>
+  
+  Developed as part of the Individual Assignment under the Open Banking App Development (OBKD) module, the Fidor Bank Open Banking Web Application aimed to simulate a Quick Local Bank Transfer and Precious Metals Transaction within the Fidor Solutions Banking Sandbox environment.
+
+• 𝗚𝗿𝗮𝗱𝗲: 
+ - AD/Distinction (Awarded to Top 5% of Projects)
+
+• 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
+ - Customer Profile
+ - Customer Transaction History
+ - Quick Local Bank Transfer
+ - Precious Metals Trading (Buying Only)
+ - Historical 5-Day Precious Metals Price Chart
+ - Latest Precious Metals News
+
+• 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲:
+ - Python
+
+• 𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝗱 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸:
+ - Flask Micro-Web Framework
+
+• 𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝗱 𝗔𝗣𝗜𝘀: 
+ - Fidor Solutions Banking Sandbox API
+ - GoldAPI.io
+ - Metals-API
+ - NewsAPI
 
 <h6>© Seann Khoo, 2022</h6>
