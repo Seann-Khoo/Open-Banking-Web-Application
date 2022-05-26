@@ -1,6 +1,6 @@
 <h3>Basic Open Banking Web Application</h3>
 
-<h4>Developed as part of a School Project, the Fidor Bank Open Banking Web Application aimed to simulate a Quick Local Bank Transfer and Precious Metals Transaction within the Fidor Solutions Banking Sandbox environment.</h4>
+<h4>Developed as part of a School Project, this Open Banking Web Application aims to simulate a Quick Local Bank Transfer and Precious Metals Transaction within a sandbox environment.</h4>
 
 <h5>Application Features:<br>
   <ul><li>Customer Profile</li>
