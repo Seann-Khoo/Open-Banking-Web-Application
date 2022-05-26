@@ -27,12 +27,5 @@
   
  <h5>Primary Font:<br>
   <ul><li>Product Sans</li></ul></h5>
-  
-  <h5>Pre-Requisites:<br>
-  <ol><li>Python and Flask Micro-Web Framework</li>
-  <li>Fidor Solutions Banking Sandox API Account, Client ID and Secret Key</li>
-  <li>GoldAPI.io Account and Token Key</li>
-  <li>Metals-API Account and Access Key</li>
-  <li>NewsAPI Account and API Key</li></ol></h5>
 
 <h6>© 2022, Seann Khoo</h6>
